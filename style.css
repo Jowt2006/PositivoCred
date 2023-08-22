@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body * {
+    font-family: 'Inter', sans-serif;
+    color: black;
+  }
+
+  body {
+    background: rgb(2, 167, 2) top center/cover;
+    height: 100vh;
+  }
+  
+#container {
+    width: 100%;
+    max-width: 588px;
+    margin: 56px auto 0px;
+    padding: 0 24px;
+  }
+  
+  /* profile */
+  #profile {
+    text-align: center;
+    padding: 24px;
+  }
+  
+  #profile img {
+    width: 112px;
+  }
+  
